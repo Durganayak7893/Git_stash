@@ -2,11 +2,8 @@
 
 int main()
 {
-    printf("Addation");
+    printf("Hello World!");
 
-    int a=10;
-    int b=20;
-    
+    return 0;
 
-    printf("Addation",a+b);
 }
